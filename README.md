@@ -8,7 +8,8 @@
 
 ## 💻 Projeto
 
-Um site de podcasts direcionados a devs.\
-Um app em next criado na Next Level Week 5 da Rocketseat.
+A podcast site directed to devs.
+
+A Next app created in Rocketseat Next Levek Week 5
 
 
